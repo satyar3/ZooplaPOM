@@ -1,0 +1,29 @@
+[INFO ] 2019-04-11 20:01:25.023 [main] TestBase - Filled details : London
+[INFO ] 2019-04-11 20:01:25.041 [main] TestBase - Clicked on : [[ChromeDriver: chrome on XP (ab7fcec6feba9cef74992bb0824425e8)] -> css selector: #search-submit]
+[INFO ] 2019-04-11 20:01:41.780 [main] TestBase - Price of the property is : 2550000
+[INFO ] 2019-04-11 20:01:41.780 [main] TestBase - Price of the property is : 1650000
+[INFO ] 2019-04-11 20:01:41.781 [main] TestBase - Price of the property is : 1150000
+[INFO ] 2019-04-11 20:01:41.781 [main] TestBase - Price of the property is : 950000
+[INFO ] 2019-04-11 20:01:41.781 [main] TestBase - Price of the property is : 775000
+[INFO ] 2019-04-11 20:01:41.781 [main] TestBase - Price of the property is : 755000
+[INFO ] 2019-04-11 20:01:41.781 [main] TestBase - Price of the property is : 695000
+[INFO ] 2019-04-11 20:01:41.781 [main] TestBase - Price of the property is : 695000
+[INFO ] 2019-04-11 20:01:41.783 [main] TestBase - Price of the property is : 630000
+[INFO ] 2019-04-11 20:01:41.783 [main] TestBase - Price of the property is : 625000
+[INFO ] 2019-04-11 20:01:41.783 [main] TestBase - Price of the property is : 580000
+[INFO ] 2019-04-11 20:01:41.783 [main] TestBase - Price of the property is : 540000
+[INFO ] 2019-04-11 20:01:41.783 [main] TestBase - Price of the property is : 515000
+[INFO ] 2019-04-11 20:01:41.783 [main] TestBase - Price of the property is : 490000
+[INFO ] 2019-04-11 20:01:41.784 [main] TestBase - Price of the property is : 475000
+[INFO ] 2019-04-11 20:01:41.784 [main] TestBase - Price of the property is : 474950
+[INFO ] 2019-04-11 20:01:41.784 [main] TestBase - Price of the property is : 450000
+[INFO ] 2019-04-11 20:01:41.784 [main] TestBase - Price of the property is : 425000
+[INFO ] 2019-04-11 20:01:41.784 [main] TestBase - Price of the property is : 421995
+[INFO ] 2019-04-11 20:01:41.784 [main] TestBase - Price of the property is : 415000
+[INFO ] 2019-04-11 20:01:41.784 [main] TestBase - Price of the property is : 400000
+[INFO ] 2019-04-11 20:01:41.784 [main] TestBase - Price of the property is : 375000
+[INFO ] 2019-04-11 20:01:41.784 [main] TestBase - Price of the property is : 365000
+[INFO ] 2019-04-11 20:01:41.784 [main] TestBase - Price of the property is : 275000
+[INFO ] 2019-04-11 20:01:41.784 [main] TestBase - Price of the property is : 225000
+[INFO ] 2019-04-11 20:06:59.385 [main] TestBase - Filled details : London
+[INFO ] 2019-04-11 20:06:59.408 [main] TestBase - Clicked on : [[ChromeDriver: chrome on XP (b86f517024234664b2ed7824d281a870)] -> css selector: #search-submit]
